@@ -349,11 +349,14 @@ textarea {
       height: 45px;
     }
   
-    footer {
+    .footer {
       position: absolute;
-      top: 50%;
+      top: 110%;
     }
-  
+  .footer_txt{
+    margin-top: 200%;
+    position: relative;
+  }
   }
   
   @media (max-width: 568px) {
